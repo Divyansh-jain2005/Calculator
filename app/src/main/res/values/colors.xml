@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="btn_equal">#48cae4</color>
+    <color name="input_text">#c0c0c0</color>
+    <color name="splash_bg">#ffeedd</color>
+    <color name="layout">#212529</color>
+    <color name="btn_bgHower">#495057</color>
+    <color name="btn_bg">#6c757d</color>
+</resources>
