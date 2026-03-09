@@ -61,8 +61,8 @@ Calculator-App
 
 1. Clone the repository
 
-```bash
-git clone https://github.com/your-username/calculator-android-app.git
+``bash
+git clone https://github.com/Divyansh-jain2005/calculator.git
 
 Open the project in Android Studio
 
@@ -109,3 +109,9 @@ Commit your changes
 Push to your branch
 
 Create a Pull Request
+
+👨‍💻 Author
+
+Divyansh Jain
+
+GitHub: https://github.com/Divyansh--jain2005
