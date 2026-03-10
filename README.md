@@ -50,8 +50,12 @@ Calculator-App
 ---
 
 ## 📸 Screenshots
+<h2>Splash Screen</h2>
+<img width="465" height="971" alt="image" src="https://github.com/user-attachments/assets/17e688dd-3031-4a08-a813-51fb2109081d" />
+<h2>Calculator</h2>
+<img width="465" height="1015" alt="image" src="https://github.com/user-attachments/assets/4d712039-a80a-4dd8-84ba-31ae1dac3c06" />
 
-*(You can add screenshots of your app here)
+
 
 
 
